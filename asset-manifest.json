@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Demyanova/static/css/main.b06ab345.css",
+    "main.js": "/Demyanova/static/js/main.4006e19b.js",
+    "static/media/nog00.svg": "/Demyanova/static/media/nog00.52c6318628bc83a6f543e4a321a4e6be.svg",
+    "static/media/nog01.svg": "/Demyanova/static/media/nog01.6cec71a549a859aae197fa201adc339a.svg",
+    "static/media/24 1.svg": "/Demyanova/static/media/24 1.21087c438c221c5012668b9386c17c14.svg",
+    "static/media/nog13.svg": "/Demyanova/static/media/nog13.a0d98df3c286ca3f1599d20179038125.svg",
+    "static/media/nog12.svg": "/Demyanova/static/media/nog12.5c73e64f7f30e73509f00374d80d57bb.svg",
+    "static/media/nog11.svg": "/Demyanova/static/media/nog11.8702425059c171f9ec8f92de8762ba37.svg",
+    "static/media/headerpicture.png": "/Demyanova/static/media/headerpicture.533d2a67fce60fd9ba97.png",
+    "static/media/nog14.svg": "/Demyanova/static/media/nog14.ea00ce11dd3aaee9949c9dd07f50d0e2.svg",
+    "static/media/16.svg": "/Demyanova/static/media/16.8f291977cb32ce22ca8b50e5071e6921.svg",
+    "static/media/Chef5.svg": "/Demyanova/static/media/Chef5.b03b05fb35e8b1f7f9b4f3e98a288fa2.svg",
+    "static/media/Chef4.svg": "/Demyanova/static/media/Chef4.974b2cc67c628fd3e95788ec1ad0b05c.svg",
+    "static/media/Chef3.svg": "/Demyanova/static/media/Chef3.4873061b7ce6b8298b6ec1752f4c6631.svg",
+    "static/media/logo2.svg": "/Demyanova/static/media/logo2.6dacc1ab9870574a5f26ba58893d8b45.svg",
+    "static/media/logo.svg": "/Demyanova/static/media/logo.02378348b6ad7a17f9cf7c2c1bb0079e.svg",
+    "static/media/bag.svg": "/Demyanova/static/media/bag.436abbaf65e66020885335c88d854138.svg",
+    "static/media/Basket.svg": "/Demyanova/static/media/Basket.de2db387430735a3e73d808278a5bce8.svg",
+    "static/media/User.svg": "/Demyanova/static/media/User.3da8696ab20a2a735e4ca8bbc040f33f.svg",
+    "index.html": "/Demyanova/index.html",
+    "static/media/hard.svg": "/Demyanova/static/media/hard.34fe46f2f2bf05eb56f26dfd64461414.svg",
+    "main.b06ab345.css.map": "/Demyanova/static/css/main.b06ab345.css.map",
+    "main.4006e19b.js.map": "/Demyanova/static/js/main.4006e19b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b06ab345.css",
+    "static/js/main.4006e19b.js"
+  ]
+}
