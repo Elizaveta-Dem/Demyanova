@@ -1,6 +1,6 @@
 {
-  "homepage": "https://logickoff123.github.io/PracticaIT",
-  "name": "papochka2",
+  "homepage": "https://Elizaveta-Dem.github.io/Demyanova",
+  "name": "test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,7 +14,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "npm run deploy",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
